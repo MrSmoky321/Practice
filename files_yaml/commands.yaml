@@ -1,0 +1,22 @@
+python:
+  args:
+    text: text_for_prob
+    time: 3
+  artifacts: []
+  encoding: utf-8
+  env:
+    APPDATA: C:\Users\MrSmoky\AppData\Roaming
+  files: {}
+  logs: []
+  max_runtime: 10
+  possible_args:
+    file: \w+.py
+    text: \w{,50}
+    time: \d{,2}
+  possible_env: {}
+  shell: false
+  template:
+  - '{{ args.file }}'
+  - --time={{ args.time }}
+  - --text={{ args.text }}
+  terminate_timeout: 10

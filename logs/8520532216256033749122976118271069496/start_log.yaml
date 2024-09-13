@@ -1,0 +1,20 @@
+ip_request: 127.0.0.1
+params:
+  artifacts: []
+  cmd:
+  - python
+  - test.py
+  - --time=7
+  - --text=test_text
+  encoding: utf-8
+  env:
+    APPDATA: C:\Users\MrSmoky\AppData\Roaming
+  files: {}
+  logs: []
+  max_runtime: 10
+  shell: false
+  terminate_timeout: 10
+start_time: '2024-07-11 17:22:57.827638'
+task_type: python
+token_process: 8520532216256033749122976118271069496
+type_request: true

@@ -1,0 +1,106 @@
+end_time: '2024-07-11 17:23:04.925584'
+ip_request: 127.0.0.1
+process_info:
+  data:
+    process_info:
+      artifacts: []
+      cmd:
+      - python
+      - test.py
+      - --time=7
+      - --text=test_text
+      cwd: "D:\\\u041F\u0440\u043E\u0435\u043A\u0442_\u043F\u0440\u0430\u043A\u0442\
+        \u0438\u043A\u0430\\logs\\8520532216256033749122976118271069496"
+      env:
+        ALLUSERSPROFILE: C:\ProgramData
+        APPDATA: C:\Users\MrSmoky\AppData\Roaming
+        COMMONPROGRAMFILES: C:\Program Files\Common Files
+        COMMONPROGRAMFILES(X86): C:\Program Files (x86)\Common Files
+        COMMONPROGRAMW6432: C:\Program Files\Common Files
+        COMPUTERNAME: DESKTOP-C7RH1L3
+        COMSPEC: C:\WINDOWS\system32\cmd.exe
+        DRIVERDATA: C:\Windows\System32\Drivers\DriverData
+        FPS_BROWSER_APP_PROFILE_STRING: Internet Explorer
+        FPS_BROWSER_USER_PROFILE_STRING: Default
+        GSTREAMER_1_0_ROOT_MSVC_X86_64: D:\gstreamer\1.0\msvc_x86_64\
+        HOMEDRIVE: 'C:'
+        HOMEPATH: \Users\MrSmoky
+        IDEA_INITIAL_DIRECTORY: D:\pycharm\PyCharm Community Edition 2022.2.3\bin
+        LOCALAPPDATA: C:\Users\MrSmoky\AppData\Local
+        LOGONSERVER: \\DESKTOP-C7RH1L3
+        NUMBER_OF_PROCESSORS: '12'
+        ONEDRIVE: C:\Users\MrSmoky\OneDrive
+        OS: Windows_NT
+        PATH: "D:\\\u041F\u0440\u043E\u0435\u043A\u0442_\u043F\u0440\u0430\u043A\u0442\
+          \u0438\u043A\u0430\\venv/Scripts;C:\\Program Files (x86)\\NVIDIA Corporation\\\
+          PhysX\\Common;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;D:\\\
+          imagemagisk\\ImageMagick-7.1.0-Q16-HDRI;C:\\Windows\\system32;C:\\Windows;C:\\\
+          Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\\
+          ;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\\
+          NVIDIA NvDLISR;C:\\Program Files\\WireGuard\\;C:\\WINDOWS\\system32;C:\\\
+          WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\\
+          v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;D:\\git\\Git\\cmd;C:\\Program Files\\\
+          PuTTY\\;C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance\
+          \ Toolkit\\;C:\\Program Files\\Vagrant\\bin;C:\\Users\\MrSmoky\\AppData\\\
+          Local\\Programs\\Python\\Python312\\Scripts\\;C:\\Users\\MrSmoky\\AppData\\\
+          Local\\Programs\\Python\\Python312\\;D:\\python\\Scripts\\;D:\\python\\\
+          ;C:\\Users\\MrSmoky\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\\
+          MrSmoky\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Python\
+          \ 3.9;C:\\Users\\MrSmoky\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\\
+          Programs\\Python 3.9\\Sripts;;D:\\pycharm\\PyCharm Community Edition 2022.2.3\\\
+          bin;;C:\\Program Files (x86)\\Nmap;D:\\VS Code\\Microsoft VS Code\\bin"
+        PATHEXT: .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+        PROCESSOR_ARCHITECTURE: AMD64
+        PROCESSOR_IDENTIFIER: AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD
+        PROCESSOR_LEVEL: '23'
+        PROCESSOR_REVISION: '6001'
+        PROGRAMDATA: C:\ProgramData
+        PROGRAMFILES: C:\Program Files
+        PROGRAMFILES(X86): C:\Program Files (x86)
+        PROGRAMW6432: C:\Program Files
+        PSMODULEPATH: C:\Users\MrSmoky\Documents\WindowsPowerShell\Modules;C:\Program
+          Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+        PT8HOME: D:\tracer_2\Cisco Packet Tracer 8.2.1
+        PUBLIC: C:\Users\Public
+        PYCHARM COMMUNITY EDITION: D:\pycharm\PyCharm Community Edition 2022.2.3\bin;
+        SESSIONNAME: Console
+        SW_SIM_HYDRA: C:\Program Files\Common Files\SolidWorks Shared\Simulation Worker
+          Agent\
+        SW_SIM_MPIT: INTELMPI
+        SW_SIM_TEMP: C:\ProgramData\SOLIDWORKS\SW_net_sim_temp\
+        SYSTEMDRIVE: 'C:'
+        SYSTEMROOT: C:\WINDOWS
+        TEMP: C:\Users\MrSmoky\AppData\Local\Temp
+        TERMINAL_EMULATOR: JetBrains-JediTerm
+        TERM_SESSION_ID: 1a33176a-6363-446c-9554-b8fe34449d69
+        TMP: C:\Users\MrSmoky\AppData\Local\Temp
+        USERDOMAIN: DESKTOP-C7RH1L3
+        USERDOMAIN_ROAMINGPROFILE: DESKTOP-C7RH1L3
+        USERNAME: MrSmoky
+        USERPROFILE: C:\Users\MrSmoky
+        VBOX_MSI_INSTALL_PATH: D:\VirtualBox\
+        VIRTUAL_ENV: "D:\\\u041F\u0440\u043E\u0435\u043A\u0442_\u043F\u0440\u0430\u043A\
+          \u0442\u0438\u043A\u0430\\venv"
+        WINDIR: C:\WINDOWS
+        __INTELLIJ_COMMAND_HISTFILE__: "C:\\Users\\MrSmoky\\AppData\\Local\\JetBrains\\\
+          PyCharmCE2022.2\\terminal\\history\\\u041F\u0440\u043E\u0435\u043A\u0442\
+          _\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430-history2"
+      files: []
+      logs: []
+      root: "D:\\\u041F\u0440\u043E\u0435\u043A\u0442_\u043F\u0440\u0430\u043A\u0442\
+        \u0438\u043A\u0430\\logs\\8520532216256033749122976118271069496"
+      shell: false
+run_info:
+  data:
+    run_info:
+      active: false
+      cpu_time: null
+      end_time: 1720707784.8832612
+      exception: null
+      pid: 18000
+      retcode: 0
+      start_time: 1720707777.8206382
+      stopping: null
+task_type: python
+text: Process completed
+token_process: 8520532216256033749122976118271069496
